@@ -2,7 +2,10 @@
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
-1. Copy the code provided here. You can find the code by clicking/tapping on the words **main skin code**, above. There is a copy button at the top right of the code box. The copy button looks like a square on top of a square, and you can see it next to the button labelled RAW. 
+1. Copy the code provided here. 
+You can find the code by clicking/tapping on the words **main skin code**, above. 
+There is a copy button at the top right of the code box. The copy button looks like a square on top of a square, and you can see it next to the button labelled RAW. 
+
 2. Sign into AO3 if you haven't already. At the top of the page, tap on your username.
 3. From the dropdown menu that appears, tap on Dashboard.
 4. On your Dashboard, tap on the link called Skins.
